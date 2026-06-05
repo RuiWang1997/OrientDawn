@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.orientdawn.com/sitemap.xml
+Sitemap: http://www.orientdawn.com/sitemap.xml
